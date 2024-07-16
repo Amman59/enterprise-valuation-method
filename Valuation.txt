@@ -1,7 +1,10 @@
 Valuation
-
+\documentclass{article}
+\begin{document}
 In a recent trading huddle meeting Nokia's newest acquisition (Infinera) came up. Nokia was trading at €3.47 on June 26th, and €3.67 on the 1st of July, following the anouncement on the 26th of June. This represents a 576 basis point incraese in the share price.
 
 the report is baed on the following (https://www.nokia.com/sites/default/files/2024-06/nokia-to-acquire-infinera.pdf)
-I am interested in the valuation used here, as Infinera had an enterprise value of $2.3 billion. Where exactly did this number come from? And why did Nokia pay such an amount to acquire them?
-Lets Look at what Infinera do. They are an Optical networking specialist who have €1.5bn Revenue, with over 60% of that in the US.
+I am interested in the valuation used here, as Infinera had an enterprise value of \$2.3 billion. Where exactly did this number come from? And why did Nokia pay such an amount to acquire them?
+Lets Look at what Infinera do. They are an Optical networking specialist who have €1.5bn Revenue, with over 60\% of that in the US.
+
+\end{document}
